@@ -15,7 +15,7 @@ Messages:
   WelcomeMessage: '&aWelcome %player%'
   JoinMessage: '&a[+] &6%player% joined the server'
   LeaveMessage: '&c[-] &6%player% left the server'
-  PlaceBlocksMessage: '&cYou cant place blocks here!'
+  PlaceBlocksMessage: '&cNEIN'
   BreakBlocksMessage: '&cYou cant break blocks here!'
   PlayerHitMessage: '&cPVP is here disabled!'
   Prefix: '&bSimpleLobby '
